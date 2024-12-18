@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou uma pessoa curiosa que está iniciando sua jornada na área tech e já encantada com o potencial dos dados de transformar informações em soluções.
+Sou uma pessoa curiosa que está iniciando sua jornada na área tech. Posso dizer que já estou impressionada com o potencial dos dados de transformar informações em soluções.
 Em 2024 conclui um bootcamp em análise de dados pela Laboratória e aqui você encontra os projetos que realizei durante o curso. 
 
  ✨ Atualmente estou em busca de uma oportunidade de trabalho!

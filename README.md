@@ -15,6 +15,11 @@ Em 2024 conclui um bootcamp em análise de dados pela Laboratória e aqui você 
 
 ---
 
+## Projetos 📂
+[Segmentação RFM](https://github.com/LarissaSPereira/Projeto_1_Segmentacao)
+
+[Validação de Hipóteses](https://github.com/LarissaSPereira/Projeto-2-Hipoteses)
+
 
 ## Vamos nos conectar? 🖇
 [Meu LinkedIn](https://www.linkedin.com/in/larissapereiras/)
